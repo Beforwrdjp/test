@@ -1,0 +1,460 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://www.valley-shareslimited.com/
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=about
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=faq
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=forgot_password
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=home
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=license
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=login
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=privacy
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=rules
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=signup
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/?a=support
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/assets/bootstrap-5.0.2-dist/boostrap/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\bootstrap-5.0.2-dist\boostrap\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/bootstrap-5.0.2-dist/boostrap/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\bootstrap-5.0.2-dist\boostrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/color.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\color.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/font-awesome-all.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\font-awesome-all.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/owl.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\owl.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.valley-shareslimited.com/assets/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/3.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/agency-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\agency-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/cta-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\cta-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/footer-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/page-title.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\page-title.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/background/progress-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\background\progress-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/banner/banner-31.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\banner\banner-31.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/banner/banner-32.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\banner\banner-32.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/banner/banner-33.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\banner\banner-33.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/icons/preloader.svg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\icons\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/about-1111.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\about-1111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/about-222.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\about-222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/agency-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\agency-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/feature-11.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\feature-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/feature-21.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\feature-21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/feature-31.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\feature-31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/testimonial-1.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\testimonial-1.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/testimonial-2.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\testimonial-2.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/resource/testimonial-3.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\resource\testimonial-3.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-1.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-2.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-3.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-4.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-5.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/service/service-6.jpg
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\service\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-1.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-1.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-2.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-2.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-3.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-3.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-4.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-4.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-5.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-5.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-6.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-6.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-7.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-7.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/images/shape/shape-8.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\images\shape\shape-8.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/assets/js/appear.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\appear.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\jquery.fancybox.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/owl.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\owl.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/script.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/scrollbar.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\scrollbar.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/validation.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\validation.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/assets/js/wow.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\assets\js\wow.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/chat-with-us2.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\chat-with-us2.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/css/yatranslate.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\css\yatranslate.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/images/cert.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\cert.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__all.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__all.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__de.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__de.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__en.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__en.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__fr.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__fr.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__ru.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__ru.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/lang/lang__zh.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\lang\lang__zh.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\images\logo.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/lion.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\lion.js
+Content Type: application/x-javascript
+
+Uri: https://www.valley-shareslimited.com/partner/r1.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r1.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r2.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r2.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r3.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r3.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r5.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r5.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r6.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r6.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r7.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r7.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/partner/r8.png
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\partner\r8.png
+Content Type: image/png
+
+Uri: https://www.valley-shareslimited.com/smart.html
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\smart.html
+Content Type: text/html
+
+Uri: https://www.valley-shareslimited.com/snap2.gif
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\snap2.gif
+Content Type: image/gif
+
+Uri: https://www.valley-shareslimited.com/snap5.gif
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\snap5.gif
+Content Type: image/gif
+
+Uri: https://www.valley-shareslimited.com/snap6.gif
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\snap6.gif
+Content Type: image/gif
+
+Uri: https://www.valley-shareslimited.com/tawkto.css
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\tawkto.css
+Content Type: text/css
+
+Uri: https://www.valley-shareslimited.com/valleyshares.pdf
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\valleyshares.pdf
+Content Type: application/pdf
+
+Uri: https://www.valley-shareslimited.com/video/video.mp4
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\video\video.mp4
+Content Type: video/mp4
+
+Uri: https://www.valley-shareslimited.com/xhamster.min.js
+File Name: C:\Downloaded Web Sites\www.valley-shareslimited.com\xhamster.min.js
+Content Type: application/x-javascript
+
